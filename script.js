@@ -20,7 +20,7 @@ drawButton.addEventListener('click', () => {
 
     // どちらでもない場合
     } else {
-        resultDisplay.textContent = '凶'; //
+        resultDisplay.textContent = '吉'; //
     }
 
 });
